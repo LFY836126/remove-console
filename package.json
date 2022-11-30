@@ -1,0 +1,11 @@
+{
+  "name": "console-remove",
+  "version": "1.0.0",
+  "description": "remove all console",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "liufangyan02",
+  "license": "ISC"
+}
